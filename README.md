@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Derrionté Jones 👋
+About Me
 
-<!--
-**jderrionte1/jderrionte1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Identity and Access Management (IAM) and Cloud Security professional based in Atlanta, Georgia.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certifications
+AWS Certified Cloud Practitioner
+CompTIA Security+
+Currently Learning
+AWS IAM
+IAM Identity Center (SSO)
+CloudTrail Monitoring
+Terraform
+Cloud Security Best Practices
+Current Projects
+AWS IAM Least Privilege Lab
+IAM Identity Center Lab
+CloudTrail Monitoring Lab
+Terraform IAM Automation Lab
+Career Interests
+IAM Analyst
+IAM Administrator
+Cloud Security Analyst
+AWS Security Roles
+Connect With Me
+LinkedIn: (https://www.linkedin.com/in/derriontejones/)
