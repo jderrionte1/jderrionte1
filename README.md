@@ -35,6 +35,13 @@ Terraform IAM Automation Lab
 * Cloud Security Analyst
 * AWS Security Roles
 
+## IAM Concepts Demonstrated
+
+* IAM Groups
+* Least Privilege
+* Permission Management
+* S3 Access Control
+
 ## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/derriontejones
