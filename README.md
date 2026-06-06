@@ -19,14 +19,11 @@ I'm an aspiring Identity and Access Management (IAM) and Cloud Security professi
 
 ## Current Projects
 
-* (Planned)
-AWS IAM Identity Center Lab
+* ✅ AWS IAM Identity Center Lab
 
-* (Planned)
-AWS CloudTrail Monitoring Lab
+* 🚧 AWS CloudTrail Monitoring Lab (In Progress)
 
-* (Planned)
-Terraform IAM Automation Lab
+* 📅 Terraform IAM Automation Lab (Upcoming)
 
 ## Career Interests
 
