@@ -25,8 +25,8 @@ I'm an aspiring Identity and Access Management (IAM) and Cloud Security professi
 
 * ✅ AWS CloudTrail Monitoring Lab 
 
-* 📅 Terraform IAM Automation Lab (Upcoming)
-
+* ✅ Terraform IAM Automation Lab
+  
 ## Career Interests
 
 * IAM Analyst
